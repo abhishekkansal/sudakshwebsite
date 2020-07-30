@@ -2275,7 +2275,7 @@ nav a:hover {
 .single-project .single-project .title {
   color: #1a1a1a;
   text-align: center;
-  margin-bottom: 10px
+  margin: 10px;
 }
 
 .single-project .content {
@@ -2288,10 +2288,10 @@ nav a:hover {
 
 .single-project .content .content-overlay {
   position: absolute;
-  left: 5px ;
-  top: 0;
+  left: 50px ;
+  top: 10px;
   bottom: 0;
-  right: 0;
+  right: 50px;
   opacity: 0;
   -webkit-transition: all 0.4s ease-in-out 0s;
   -moz-transition: all 0.4s ease-in-out 0s;
